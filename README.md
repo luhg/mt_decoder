@@ -1,3 +1,4 @@
+基于短语的统计机器翻译（学习版）
 ##Decoder
 
 ####CIS526, Machine Translation, HW2
